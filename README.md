@@ -1,0 +1,1 @@
+# This is a template folder for creating exercise & project notebooks
