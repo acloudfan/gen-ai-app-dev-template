@@ -1,1 +1,1 @@
-# This is a template folder for creating exercise & project notebooks
+# This is a template repo for creating exercise & project notebooks
